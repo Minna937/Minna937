@@ -2,7 +2,7 @@
 
 
 ## About me:
-👩‍💻 full-stack software engineer | 🌳 landscape designer | 🏊‍♀️ swimming | ⛰ hiking | 
+👩‍💻 full-stack software engineer | 🌳 landscape designer | 🏊‍♀️ swimming | ⛰ hiking 
 
 # 💻 Tech Stack:
 
@@ -31,7 +31,7 @@
 
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Minna937&theme=flag-india)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Minna937&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 [![](https://visitcount.itsvg.in/api?id=Minna&label=Profile%20Views&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
