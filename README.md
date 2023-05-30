@@ -2,7 +2,7 @@
 
 
 ## About me:
-👩‍💻 full-stack software engineer | 🌳 landscape designer | 🏊‍♀️ swimming | ⛰ hiking 
+👩‍💻 full-stack software engineer | 🌳 landscape designer | 🏃‍♀️ running | ⛰ hiking | 🏊‍♀️ swimming 
 
 # 💻 Tech Stack:
 
