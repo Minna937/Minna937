@@ -28,7 +28,7 @@
 
 
 ## Let's Get Connected!
-<a href="https://www.linkedin.com/in/minna-liu-40a25515b/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/minnaliu937/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 
